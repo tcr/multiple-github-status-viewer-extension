@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Multiple Github Statuses",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Display Github statuses.",
+    "description": "The description of the application"
+  }
+}

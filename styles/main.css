@@ -1,0 +1,4 @@
+.branch-status { display: none; }
+.build-status-description + .build-status-description {
+	margin-top: 8px;
+}
